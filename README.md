@@ -1,7 +1,7 @@
 # Codex Energy Drink Project Analysis
 This repository contains an analysis of Codex Energy Drink's market insights derived from survey responses in the Food & Beverage industry. The aim of this project is to provide actionable insights to the marketing team at Codex Energy Drink for enhancing their marketing strategies and product development.
 
-## Table of Contents
+## `Table of Contents`
 
 • Project Overview
 
@@ -31,52 +31,44 @@ The primary data source for this analysis consists of survey responses collected
 ### Tools Used
 The analysis was conducted using SQL to query and manipulate the survey data. SQL provides a structured approach to deriving insights from large datasets efficiently. The SQL queries are documented within the project's SQL files, making it easy to reproduce the analysis.
 
+
 ### Insights and Recommendations
 
-#### Primary Insights 
+#### Primary Insights
 
 • Among all the respondents 2.1k Males show high preference to the energy drink,
-with 2-3 times a week consumptions
+with 2-3 times a week consumptions.
+
 • 19-30 age group shows high preference for the drink and 31-45 and 15-18 followed by that.
+
 • Online Ads are the best market reach among 15-30 age group and TV Commercial are followed by that.
+
 • Caffeine are the most preferred ingredient in the energy drink.
+
 • Compact and portable cans are the top preferred packaging preferences
+
 • Cola -Coka is the current market leader 
+
 • Consumer preferences , Brand reputation and product avaliablity are the three primary reasons consumers prefer to other brands over ours.
+
 • Online Ads and TV commercials are the best marketing channels for promoting the energy drinks.
-•
 
+• It is advisable to focus on Banglore, Mumbai , Hydrabad ,Chennai ,Delhi from tier 1 cities as these location demonstrate higher concentration of target customers.
 
-#### Demographic Insights
+• Supermarkets are the most preferred locations to purchase energy drinks.
 
-Analyze gender preferences for energy drinks (male/female/non-binary).
-Identify the age group with the highest preference for energy drinks.
-Determine which marketing strategies effectively reach the youth (ages 15-30).
-Consumer Preferences:
+• Mostly people who in sports and exercise consume the energy drinks and peple who are studying or working followed by that.
 
-Explore preferred ingredients and packaging options for energy drinks.
-Competition Analysis:
+#### Recommendations
 
-Identify market leaders and understand reasons for consumer brand preferences.
-Marketing Channels and Brand Awareness:
+• To market our drink effectively, we need to make it affordable within the preferred prize range of 50-99 rs which eshtablish an go to option for customers
 
-Determine effective marketing channels to reach a broader customer base.
-Evaluate the effectiveness of different marketing strategies.
-Brand Penetration:
+• To optimize our energy drinks effectively, we can create limited edition drinks which can allow customer to try out our drinks
 
-Measure the overall brand perception and identify key focus cities.
-Purchase Behavior:
+• For better reach we can prefer Online Ads ,influence marketing to collect the target customers
 
-Discover preferred purchase locations and consumption situations.
-Understand factors influencing purchase decisions (price range, packaging).
-Secondary Insights
-Additional market research will provide recommendations for Codex Energy Drink to enhance its market position:
-
-Immediate product improvements.
-Ideal pricing strategy.
-Effective marketing campaigns, offers, and discounts.
-Potential brand ambassadors.
-Target audience segmentation.
+• To amplify our marketing, we can hire a sportperson with strong media presence  who can serve as a brand ambassdor ,
+connecting with our 15-45 age group  target audience
 
 ### Usage
 To reproduce or explore the insights presented in this analysis, follow these steps:
