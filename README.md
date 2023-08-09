@@ -1,4 +1,8 @@
 ## Codex Energy Drink Project Analysis
+
+![img](https://www.hepatitiscentral.com/wp-content/uploads/2016/11/energy-drinks1.jpg)
+
+
 This repository contains an analysis of Codex Energy Drink's market insights derived from survey responses in the Food & Beverage industry. The aim of this project is to provide actionable insights to the marketing team at Codex Energy Drink for enhancing their marketing strategies and product development.
 
 ### Table of Contents
