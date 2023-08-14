@@ -12,6 +12,8 @@ This repository contains an analysis of Codex Energy Drink's market insights der
 
 • Tools Used
 
+• Key Analysis
+
 • Insights and Recommendations
 
 • Primary Insights
@@ -33,6 +35,28 @@ The primary data source for this analysis consists of survey responses collected
 
 ### Tools Used
 The analysis was conducted using SQL to query and manipulate the survey data. SQL provides a structured approach to deriving insights from large datasets efficiently. The SQL queries are documented within the project's SQL files, making it easy to reproduce the analysis.
+
+
+### Key analysis:
+ 
+✅Demographic Analysis:
+• Analyse the demographic characteristics of the respondents, such as age, gender.
+ 
+✅City-wise Analysis:
+• Explore the survey response from each city to understand preferences specific to these locations.
+
+• Compare the responses across the different cities to identify the regional differences in consumer behavior and preferences.
+ 
+✅Competitor Analysis:
+• Compare CodeX energy drink's performance with competitors in terms of the brand perception, market share and product offerings.
+ 
+✅Consumer Behavior and Buying patterns:
+• Analyse the consumer buying patterns, including frequency of purchase, preferred channels (online or offline), and factors influencing the purchase decisions.
+ 
+✅Brand awareness and Perception:
+• Analyse the perceptions of the brand, including attributes such as quality, taste, packaging and value for money, to understand how it is perceived in different markets.
+ 
+• Identify areas where the brand perception can be strengthened or improved.
 
 
 ### Insights and Recommendations
@@ -64,13 +88,13 @@ with 2-3 times a week consumptions.
 
 #### Recommendations
 
-• To market our drink effectively, we need to make it affordable within the preferred prize range of 50-99 rs which eshtablish an go to option for customers
+✅ To market our drink effectively, we need to make it affordable within the preferred prize range of 50-99 rs which eshtablish an go to option for customers
 
-• To optimize our energy drinks effectively, we can create limited edition drinks which can allow customer to try out our drinks
+✅ To optimize our energy drinks effectively, we can create limited edition drinks which can allow customer to try out our drinks
 
-• For better reach we can prefer Online Ads ,influence marketing to collect the target customers
+✅ For better reach we can prefer Online Ads ,influence marketing to collect the target customers
 
-• To amplify our marketing, we can hire a sportperson with strong media presence  who can serve as a brand ambassdor ,
+✅ To amplify our marketing, we can hire a sportperson with strong media presence  who can serve as a brand ambassdor ,
 connecting with our 15-45 age group  target audience
 
 ### Usage
